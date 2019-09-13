@@ -15,3 +15,5 @@ ifeq ($(origin LEGATO_WIFI_VERSION),undefined)
   # And finally, export it.
   export LEGATO_WIFI_VERSION
 endif
+
+export SDEF_TO_USE = $(LEGATO_WIFI_ROOT)/wifi.sdef

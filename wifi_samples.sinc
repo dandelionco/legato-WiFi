@@ -6,7 +6,7 @@
 
 apps:
 {
-    $LEGATO_WIFI_ROOT/apps/sample/wifiClientTest/wifiClientTest.adef
+    // $LEGATO_WIFI_ROOT/apps/sample/wifiClientTest/wifiClientTest.adef
     $LEGATO_WIFI_ROOT/apps/sample/wifiApTest/wifiApTest.adef
     $LEGATO_WIFI_ROOT/apps/sample/wifiWebAp/wifiWebAp.adef
 }
